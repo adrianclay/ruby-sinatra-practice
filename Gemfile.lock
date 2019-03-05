@@ -56,6 +56,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -66,7 +67,7 @@ DEPENDENCIES
   sinatra
 
 RUBY VERSION
-   ruby 2.4.4p296
+   ruby 2.6.1p33
 
 BUNDLED WITH
-   1.17.1
+   1.17.2
